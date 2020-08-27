@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGrey: #ececec;
+$mainTransition: all 0.3s linear; 
+$mainBorder: #E6E6F0;
+
+body{
+  font-family: 'Roboto', sans-serif;
+  background: #F0F0F7;
+  color: $mainBlack;
+}

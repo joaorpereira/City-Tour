@@ -1,0 +1,15 @@
+@import '../../index.scss';
+
+.footer {
+    background: $mainBlack;
+    padding: 1rem 5rem;
+    display: flex;
+    height: 5rem;
+    align-items: center;
+    justify-content: flex-end;
+    p   {  
+        color: $mainGrey;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+    }
+}
