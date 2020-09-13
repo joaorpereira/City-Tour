@@ -6,7 +6,7 @@
 
 ## How to Run this Project
 
-- git clone "https://github.com/joaorpereira/city-tour.git"
+- git clone https://github.com/joaorpereira/city-tour.git
 - npm install
 - npm start
 
