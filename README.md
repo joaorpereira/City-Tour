@@ -2,6 +2,9 @@
 
 > This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. The objective was to understand and improve my skills using these tools.
 
+### Site
+The website has been hosted at netlify: https://city-tour-mg.netlify.app/
+
 ![](city-tour.gif)
 
 ## How to Run this Project
